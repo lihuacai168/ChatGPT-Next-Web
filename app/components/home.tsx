@@ -629,7 +629,12 @@ export function Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>花菜のChatGPT Next</div>
           <div className={styles["sidebar-sub-title"]}>
-            花菜の博客 https://blog.huacai.one
+            <br />
+            ChatGPT部署,key,账号请看{" "}
+            <a href="https://blog.huacai.one" target="_blank">
+              花菜の博客
+            </a>
+            <br />
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
