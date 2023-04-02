@@ -635,13 +635,13 @@ export function Home() {
               花菜の博客
             </a>
             <br />
-            <p>
-              <font color="red">
-                警告!!! ChatGPT官方最近大面积封杀，请求谨慎使用
-              </font>
+            <p style={{ color: "red" }}>
+              {" "}
+              警告!!!ChatGPT官方最近大面积封杀，请求谨慎使用
             </p>
-            <p>
-              <font color="red">不要在多个地方使用key，key也不要共享</font>
+            <p style={{ color: "red" }}>
+              {" "}
+              不要在多个地方使用key，key也不要共享
             </p>
           </div>
           <div className={styles["sidebar-logo"]}>
