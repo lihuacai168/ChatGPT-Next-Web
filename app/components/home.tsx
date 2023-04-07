@@ -629,12 +629,18 @@ export function Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>花菜のChatGPT Next</div>
           <div className={styles["sidebar-sub-title"]}>
-            <br />
-            ChatGPT部署,key,账号请看{" "}
-            <a href="https://blog.huacai.one" target="_blank">
-              花菜の博客
-            </a>
-            <br />
+            <p style={{ color: "red" }}>
+              购买ChatGPT账号{" "}
+              <a href="https://shop.huacai.one" target="_blank">
+                花菜の店铺
+              </a>
+            </p>
+            <p style={{ color: "red" }}>
+              ChatGPT部署请看{" "}
+              <a href="https://blog.huacai.one" target="_blank">
+                花菜の博客
+              </a>
+            </p>
             <p style={{ color: "red" }}>
               {" "}
               警告!!!ChatGPT官方最近大面积封杀，请求谨慎使用
