@@ -630,24 +630,16 @@ export function Home() {
           <div className={styles["sidebar-title"]}>花菜のChatGPT Next</div>
           <div className={styles["sidebar-sub-title"]}>
             <p style={{ color: "red" }}>
-              购买ChatGPT账号{" "}
-              <a href="https://shop.huacai.one" target="_blank">
-                花菜の店铺
+              没有key？直接白嫖{" "}
+              <a href="https://huacai.ai-nb.com" target="_blank">
+                花菜の白嫖ChatGPT
               </a>
             </p>
             <p style={{ color: "red" }}>
-              ChatGPT部署请看{" "}
+              手把手部署ChatGPT教程{" "}
               <a href="https://blog.huacai.one" target="_blank">
                 花菜の博客
               </a>
-            </p>
-            <p style={{ color: "red" }}>
-              {" "}
-              警告!!!ChatGPT官方最近大面积封杀，请求谨慎使用
-            </p>
-            <p style={{ color: "red" }}>
-              {" "}
-              不要在多个地方使用key，key也不要共享
             </p>
           </div>
           <div className={styles["sidebar-logo"]}>
